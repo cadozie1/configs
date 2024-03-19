@@ -1,0 +1,4 @@
+add-auto-load-safe-path /home/cholesterol/cse536/hw1_saved/xv6-riscv/.gdbinit
+add-auto-load-safe-path /home/cholesterol/cse536/hw2/hw2/xv6-riscv/.gdbinit
+add-auto-load-safe-path /home/cholesterol/cse536/hw3/xv6-riscv/.gdbinit
+add-auto-load-safe-path /home/cholesterol/cse536/hw4/xv6-riscv/.gdbinit
